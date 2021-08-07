@@ -1,7 +1,7 @@
-# Importing module and file with token
+# Importing modules and file with token
 import telebot
-import config
 import random
+import config
 
 bot = telebot.TeleBot(config.token)
 
